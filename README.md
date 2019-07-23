@@ -1,3 +1,5 @@
+> DEPRECATED: This project has been deprecated in favor of [wc-spinners](https://github.com/craigjennings11/wc-spinners) which implements more spinners than just the Epic library
+
 # Web Component Epic Spinners
 [![npm](https://img.shields.io/npm/v/wc-epic-spinners.svg?style=popout-square)](https://www.npmjs.com/package/wc-epic-spinners)
 [![npm](https://img.shields.io/npm/l/wc-epic-spinners.svg?style=popout-square)](https://github.com/craigjennings11/wc-epic-spinners/blob/master/LICENSE)
